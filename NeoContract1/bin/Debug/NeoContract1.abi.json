@@ -1,0 +1,17 @@
+{
+    "hash":"0x7ff9213201be75f112f34d5efa99e20f94b217b0",
+    "entrypoint":"Main",
+    "functions":
+    [
+        {
+            "name":"Main",
+            "parameters":
+            [
+            ],
+            "returntype":"Void"
+        }
+    ],
+    "events":
+    [
+    ]
+}

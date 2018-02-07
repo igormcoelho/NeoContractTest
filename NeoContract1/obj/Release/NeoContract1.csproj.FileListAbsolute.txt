@@ -1,0 +1,4 @@
+/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/bin/Release/NeoContract1.dll
+/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/bin/Release/Neo.SmartContract.Framework.dll
+/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/obj/Release/NeoContract1.csproj.CoreCompileInputs.cache
+/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/obj/Release/NeoContract1.dll
