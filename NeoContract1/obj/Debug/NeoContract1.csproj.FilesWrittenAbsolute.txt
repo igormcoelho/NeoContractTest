@@ -1,6 +1,0 @@
-/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
-/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/bin/Debug/NeoContract1.dll.mdb
-/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/bin/Debug/NeoContract1.dll
-/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/obj/Debug/NeoContract1.dll
-/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/obj/Debug/NeoContract1.dll.mdb
-/home/imcoelho/git-reps/neo-compiler/NeoContractTeste/NeoContract1/bin/Debug/Neo.SmartContract.Framework.dll
